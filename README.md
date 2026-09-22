@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07121A,50:103A46,100:07121A&height=180&section=header&text=SREEYAPUREDDY%20SUDHEER%20KUMAR%20REDDY&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ELECTRONICS%20%26%20COMMUNICATION%20ENGINEER%20%C2%B7%20VLSI%20%C2%B7%20EMBEDDED%20SYSTEMS&descAlignY=62&descSize=13&descColor=7DE2E8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07121A,50:103A46,100:07121A&height=180&section=header&text=SUDHEER%20KUMAR%20REDDY&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ELECTRONICS%20%26%20COMMUNICATION%20ENGINEERING%20%C2%B7%20VLSI%20%C2%B7%20EMBEDDED%20SYSTEMS&descAlignY=62&descSize=13&descColor=7DE2E8"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=900&color=7DE2E8&center=true&vCenter=true&width=750&lines=I+build+and+design+digital+systems.;From+RTL+%E2%86%92+Simulation+%E2%86%92+Physical+Design.;Hardware.+Logic.+Embedded+Systems." />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=900&color=7DE2E8&center=true&vCenter=true&width=800&lines=I+build+and+design+digital+systems.;From+RTL+%E2%86%92+Simulation+%E2%86%92+Physical+Design.;Hardware.+Logic.+Embedded+Systems."/>
 
 <br><br>
 
@@ -32,7 +32,7 @@ My work spans **Verilog-based digital design, RISC-V processor implementation, A
 
 <div align="center">
 
-`DIGITAL DESIGN`   `VLSI`   `EMBEDDED`   `HARDWARE`   `ARCHITECTURE`
+`DIGITAL DESIGN` &nbsp; `VLSI` &nbsp; `EMBEDDED` &nbsp; `HARDWARE` &nbsp; `ARCHITECTURE`
 
 </div>
 
@@ -104,12 +104,12 @@ Complete RTL-to-GDSII physical design implementation of an SPI module using an o
 
 Designed and implemented a RISC-V processor in Verilog based on the RISC-V instruction set architecture.
 
-* Instruction fetch and decode
-* Register file and ALU
-* Control logic
-* Memory interface
-* Program counter operations
-* Functional verification through simulation
+- Instruction fetch and decode
+- Register file and ALU
+- Control logic
+- Memory interface
+- Program counter operations
+- Functional verification through simulation
 
 ### ◇ Ultrasonic Radar System
 
@@ -117,10 +117,10 @@ Designed and implemented a RISC-V processor in Verilog based on the RISC-V instr
 
 Developed a 180° radar prototype using an Arduino, ultrasonic sensor and servo motor.
 
-* Stationary and moving object detection
-* Echo-time based distance calculation
-* Servo-controlled scanning
-* Real-time angle and distance monitoring through Serial Monitor
+- Stationary and moving object detection
+- Echo-time based distance calculation
+- Servo-controlled scanning
+- Real-time angle and distance monitoring through Serial Monitor
 
 ### ◇ Automated Headlight Control & Accident Prevention System
 
@@ -128,12 +128,12 @@ Developed a 180° radar prototype using an Arduino, ultrasonic sensor and servo 
 
 Developed an Arduino-based vehicle safety system integrating multiple sensors and actuators.
 
-* Adaptive headlight control using LDR
-* Obstacle detection using ultrasonic sensor
-* Impact detection using accelerometer
-* Servo motor control
-* Buzzer-based alerts
-* LCD-based real-time system status
+- Adaptive headlight control using LDR
+- Obstacle detection using ultrasonic sensor
+- Impact detection using accelerometer
+- Servo motor control
+- Buzzer-based alerts
+- LCD-based real-time system status
 
 ---
 
@@ -145,11 +145,11 @@ Developed an Arduino-based vehicle safety system integrating multiple sensors an
 
 <br><br>
 
-`VERILOG HDL`   `SYSTEMVERILOG`   `XILINX VIVADO`   `CADENCE VIRTUOSO`
+`VERILOG HDL` &nbsp; `SYSTEMVERILOG` &nbsp; `XILINX VIVADO` &nbsp; `CADENCE VIRTUOSO`
 
 <br><br>
 
-`YOSYS`   `GRAYWOLF`   `QROUTER`   `R`   `MATLAB`
+`YOSYS` &nbsp; `GRAYWOLF` &nbsp; `QROUTER` &nbsp; `R` &nbsp; `MATLAB`
 
 </div>
 
@@ -163,15 +163,15 @@ Developed an Arduino-based vehicle safety system integrating multiple sensors an
 
 <br><br>
 
-`→` **VLSI Design & Physical Design**
-`→` **Digital System Design**
-`→` **Embedded Systems**
-`→` **Computer Architecture**
+`→` **VLSI Design & Physical Design**  
+`→` **Digital System Design**  
+`→` **Embedded Systems**  
+`→` **Computer Architecture**  
 `→` **RTL Design & Verification**
 
 <br><br>
 
-`DESIGNING`   •   `SIMULATING`   •   `VERIFYING`
+`DESIGNING` &nbsp; • &nbsp; `SIMULATING` &nbsp; • &nbsp; `VERIFYING`
 
 </div>
 
@@ -185,41 +185,102 @@ Developed an Arduino-based vehicle safety system integrating multiple sensors an
 
 </div>
 
+<br>
+
 ### ◇ VLSI Physical Design — Summer Internship
 
 **Maven Silicon, Bangalore · May 2025 – July 2025**
 
 Worked on the physical design of an SPI module using the Q-Flow open-source VLSI toolchain.
 
-* Performed synthesis using **Yosys**
-* Placement using **GrayWolf**
-* Routing using **QRouter**
-* Verification through **STA, DRC and LVS**
-* Generated a verified **GDSII layout**
-* Gained hands-on experience across the complete **RTL-to-GDSII flow**
+- Performed synthesis using **Yosys**
+- Placement using **GrayWolf**
+- Routing using **QRouter**
+- Verification through **STA, DRC and LVS**
+- Generated a verified **GDSII layout**
+- Gained hands-on experience across the complete **RTL-to-GDSII flow**
 
 ---
 
 ## `07 / EDUCATION`
 
-### Vellore Institute of Technology – AP
+### ◇ Vellore Institute of Technology – AP
 
-**B.Tech in Electronics and Communication Engineering**
+**B.Tech in Electronics and Communication Engineering**  
 2023 – 2027 · **CGPA: 9.36**
 
-### Sri Chaitanya Junior College
+### ◇ Sri Chaitanya Junior College
 
-**Intermediate — MPC**
+**Intermediate — MPC**  
 2021 – 2023 · **97.7%**
 
-### Santhiniketan High School
+### ◇ Santhiniketan High School
 
-**State Board**
+**State Board**  
 2021 · **590 / 600**
 
 ---
 
-## `08 / ACHIEVEMENTS`
+## `08 / TECHNICAL SKILLS`
+
+<table>
+<tr>
+<td width="50%">
+
+### Programming & HDL
+
+- Java
+- C
+- Verilog HDL
+- SystemVerilog
+
+</td>
+
+<td width="50%">
+
+### Tools
+
+- Xilinx Vivado
+- Cadence Virtuoso
+- R
+- MATLAB
+- Arduino IDE
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Core Electronics
+
+- Analog & Digital Electronics
+- Digital Logic
+- Circuit Theory
+- Circuit Analysis
+- CMOS
+- VLSI Design
+- Microprocessors
+- Computer Architecture
+
+</td>
+
+<td width="50%">
+
+### Strengths
+
+- Adaptability
+- Time Management
+- Critical Thinking
+- Problem-Solving
+
+</td>
+</tr>
+</table>
+
+---
+
+## `09 / ACHIEVEMENTS`
 
 <div align="center">
 
@@ -237,7 +298,7 @@ Worked on the physical design of an SPI module using the Q-Flow open-source VLSI
 
 ---
 
-## `09 / GITHUB`
+## `10 / GITHUB`
 
 <div align="center">
 
@@ -245,7 +306,7 @@ Worked on the physical design of an SPI module using the Q-Flow open-source VLSI
 
 <br><br>
 
-<a href="https://github.com/">
+<a href="#">
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-%E2%86%92-0EA5A8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -253,7 +314,7 @@ Worked on the physical design of an SPI module using the Q-Flow open-source VLSI
 
 ---
 
-## `10 / CONNECT`
+## `11 / CONNECT`
 
 <div align="center">
 
@@ -265,12 +326,18 @@ Worked on the physical design of an SPI module using the Q-Flow open-source VLSI
 <img src="https://img.shields.io/badge/EMAIL-%E2%86%92-0EA5A8?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br><br>
+
 <a href="#">
 <img src="https://img.shields.io/badge/LINKEDIN-%E2%86%92-0EA5A8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
+<br><br><br>
 
 <sub>Designed & built by SreeYapureddy Sudheer Kumar Reddy · Kadapa, Andhra Pradesh</sub>
+
+<br>
+
+<sub>English — Professional &nbsp;|&nbsp; Telugu — Native</sub>
 
 </div>
