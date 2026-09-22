@@ -1,143 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07121A,50:103A46,100:07121A&height=180&section=header&text=SUDHEER%20KUMAR%20REDDY&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ELECTRONICS%20%26%20COMMUNICATION%20ENGINEERING%20%C2%B7%20VLSI%20%C2%B7%20EMBEDDED%20SYSTEMS&descAlignY=62&descSize=13&descColor=7DE2E8"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0714,50:24104A,100:0B0714&height=180&section=header&text=SUDHEER%20KUMAR%20REDDY&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ELECTRONICS%20AND%20COMMUNICATION%20ENGINEERING%20%C2%B7%20VLSI%20%C2%B7%20EMBEDDED%20SYSTEMS&descAlignY=62&descSize=14&descColor=C8B6FF"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=900&color=7DE2E8&center=true&vCenter=true&width=800&lines=I+build+and+design+digital+systems.;From+RTL+%E2%86%92+Simulation+%E2%86%92+Physical+Design.;Hardware.+Logic.+Embedded+Systems."/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=2800&pause=900&color=C8B6FF&center=true&vCenter=true&width=760&height=40&lines=Digital+Design+%E2%80%A2+VLSI+%E2%80%A2+Embedded+Systems;RTL+%E2%86%92+Simulation+%E2%86%92+Physical+Design;Hardware+%E2%80%A2+Logic+%E2%80%A2+Architecture"/>
 
 <br><br>
 
 <a href="mailto:sudheer.sreeyapureddy@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT%20ME-0EA5A8?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONTACT-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## `01 / PROFILE`
+## `01 / ABOUT`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=09171D&height=65&text=DESIGN%20%E2%80%A2%20BUILD%20%E2%80%A2%20VERIFY&fontSize=18&fontColor=7DE2E8&animation=twinkling&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0A16&height=55&text=DESIGN%20%E2%80%A2%20BUILD%20%E2%80%A2%20VERIFY&fontSize=16&fontColor=C8B6FF&animation=twinkling&fontAlignY=55"/>
 
-</div>
+<br><br>
 
-> **Electronics and Communication Engineering student focused on digital design, VLSI, embedded systems and computer architecture.**
+**ECE student focused on Digital Design, VLSI, Embedded Systems and Computer Architecture.**
 
-I'm an ECE student with strong foundations in **analog and digital electronics, embedded systems, microprocessors, microcontrollers, computer architecture and VLSI design.**
+<br>
 
-My work spans **Verilog-based digital design, RISC-V processor implementation, Arduino-based hardware development, sensor interfacing and RTL-to-GDSII physical design.**
-
-<div align="center">
-
-`DIGITAL DESIGN` &nbsp; `VLSI` &nbsp; `EMBEDDED` &nbsp; `HARDWARE` &nbsp; `ARCHITECTURE`
+`VERILOG` · `RISC-V` · `ARDUINO` · `VLSI` · `RTL`
 
 </div>
 
 ---
 
-## `02 / SELECTED WORK`
+## `02 / PROJECTS`
 
 <table>
 <tr>
-<td width="50%">
 
-### ◈ RISC-V Processor
+<td width="50%" align="center">
 
-A RISC-V processor implemented in Verilog based on the RISC-V instruction set architecture.
+### ◈ RISC-V PROCESSOR
 
-<br>
-
-<img src="https://img.shields.io/badge/●%20COMPLETED-0EA5A8?style=flat-square&labelColor=101A1F"/>
-
-</td>
-
-<td width="50%">
-
-### ◈ Ultrasonic Radar
-
-A 180° Arduino-based radar prototype for stationary and moving object detection using ultrasonic sensing.
+Verilog-based processor implementation covering instruction fetch, decode, register file, ALU, control logic and memory interface.
 
 <br>
 
-<img src="https://img.shields.io/badge/●%20COMPLETED-14B8A6?style=flat-square&labelColor=101A1F"/>
+<img src="https://img.shields.io/badge/COMPLETED-8B5CF6?style=flat-square&labelColor=16121F"/>
 
 </td>
+
+<td width="50%" align="center">
+
+### ◈ ULTRASONIC RADAR
+
+180° Arduino radar using ultrasonic sensing and servo control for real-time object detection.
+
+<br>
+
+<img src="https://img.shields.io/badge/COMPLETED-9B8AFB?style=flat-square&labelColor=16121F"/>
+
+</td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### ◈ Automated Headlight & Accident Prevention
+<td width="50%" align="center">
 
-An embedded vehicle safety system combining adaptive headlights, obstacle detection and impact detection.
+### ◈ VEHICLE SAFETY SYSTEM
 
-<br>
-
-<img src="https://img.shields.io/badge/●%20COMPLETED-0F766E?style=flat-square&labelColor=101A1F"/>
-
-</td>
-
-<td width="50%">
-
-### ◈ SPI Physical Design
-
-Complete RTL-to-GDSII physical design implementation of an SPI module using an open-source VLSI toolchain.
+Arduino-based adaptive headlight, obstacle detection and accident prevention system.
 
 <br>
 
-<img src="https://img.shields.io/badge/●%20VERIFIED-0891B2?style=flat-square&labelColor=101A1F"/>
+<img src="https://img.shields.io/badge/COMPLETED-7C6CC9?style=flat-square&labelColor=16121F"/>
 
 </td>
+
+<td width="50%" align="center">
+
+### ◈ SPI PHYSICAL DESIGN
+
+RTL-to-GDSII implementation using Yosys, GrayWolf and QRouter with STA, DRC and LVS verification.
+
+<br>
+
+<img src="https://img.shields.io/badge/VERIFIED-6F63A8?style=flat-square&labelColor=16121F"/>
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## `03 / PROJECT DETAILS`
-
-### ◇ RISC-V Processor Implementation
-
-**Verilog HDL · Computer Architecture**
-
-Designed and implemented a RISC-V processor in Verilog based on the RISC-V instruction set architecture.
-
-- Instruction fetch and decode
-- Register file and ALU
-- Control logic
-- Memory interface
-- Program counter operations
-- Functional verification through simulation
-
-### ◇ Ultrasonic Radar System
-
-**Arduino IDE · Embedded Systems · 2024–2025**
-
-Developed a 180° radar prototype using an Arduino, ultrasonic sensor and servo motor.
-
-- Stationary and moving object detection
-- Echo-time based distance calculation
-- Servo-controlled scanning
-- Real-time angle and distance monitoring through Serial Monitor
-
-### ◇ Automated Headlight Control & Accident Prevention System
-
-**Arduino · Embedded Systems**
-
-Developed an Arduino-based vehicle safety system integrating multiple sensors and actuators.
-
-- Adaptive headlight control using LDR
-- Obstacle detection using ultrasonic sensor
-- Impact detection using accelerometer
-- Servo motor control
-- Buzzer-based alerts
-- LCD-based real-time system status
-
----
-
-## `04 / TOOLKIT`
+## `03 / TECH STACK`
 
 <div align="center">
 
@@ -145,199 +104,108 @@ Developed an Arduino-based vehicle safety system integrating multiple sensors an
 
 <br><br>
 
-`VERILOG HDL` &nbsp; `SYSTEMVERILOG` &nbsp; `XILINX VIVADO` &nbsp; `CADENCE VIRTUOSO`
-
-<br><br>
-
-`YOSYS` &nbsp; `GRAYWOLF` &nbsp; `QROUTER` &nbsp; `R` &nbsp; `MATLAB`
-
-</div>
-
----
-
-## `05 / CURRENTLY`
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=09171D&height=55&text=FOCUSING%20ON&fontSize=17&fontColor=7DE2E8&animation=blink&fontAlignY=55"/>
-
-<br><br>
-
-`→` **VLSI Design & Physical Design**  
-`→` **Digital System Design**  
-`→` **Embedded Systems**  
-`→` **Computer Architecture**  
-`→` **RTL Design & Verification**
-
-<br><br>
-
-`DESIGNING` &nbsp; • &nbsp; `SIMULATING` &nbsp; • &nbsp; `VERIFYING`
-
-</div>
-
----
-
-## `06 / EXPERIENCE`
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=09171D&height=100&text=RTL%20%E2%86%92%20SYNTHESIS%20%E2%86%92%20PLACEMENT%20%E2%86%92%20ROUTING%20%E2%86%92%20VERIFY&fontSize=15&fontColor=7DE2E8&animation=twinkling&fontAlignY=55"/>
-
-</div>
+<img src="https://img.shields.io/badge/VERILOG%20HDL-16121F?style=for-the-badge&logo=verilog&logoColor=C8B6FF"/>
+<img src="https://img.shields.io/badge/SYSTEMVERILOG-16121F?style=for-the-badge&logoColor=C8B6FF"/>
+<img src="https://img.shields.io/badge/XILINX%20VIVADO-16121F?style=for-the-badge&logoColor=C8B6FF"/>
+<img src="https://img.shields.io/badge/CADENCE%20VIRTUOSO-16121F?style=for-the-badge&logoColor=C8B6FF"/>
 
 <br>
 
-### ◇ VLSI Physical Design — Summer Internship
-
-**Maven Silicon, Bangalore · May 2025 – July 2025**
-
-Worked on the physical design of an SPI module using the Q-Flow open-source VLSI toolchain.
-
-- Performed synthesis using **Yosys**
-- Placement using **GrayWolf**
-- Routing using **QRouter**
-- Verification through **STA, DRC and LVS**
-- Generated a verified **GDSII layout**
-- Gained hands-on experience across the complete **RTL-to-GDSII flow**
-
----
-
-## `07 / EDUCATION`
-
-### ◇ Vellore Institute of Technology – AP
-
-**B.Tech in Electronics and Communication Engineering**  
-2023 – 2027 · **CGPA: 9.36**
-
-### ◇ Sri Chaitanya Junior College
-
-**Intermediate — MPC**  
-2021 – 2023 · **97.7%**
-
-### ◇ Santhiniketan High School
-
-**State Board**  
-2021 · **590 / 600**
-
----
-
-## `08 / TECHNICAL SKILLS`
-
-<table>
-<tr>
-<td width="50%">
-
-### Programming & HDL
-
-- Java
-- C
-- Verilog HDL
-- SystemVerilog
-
-</td>
-
-<td width="50%">
-
-### Tools
-
-- Xilinx Vivado
-- Cadence Virtuoso
-- R
-- MATLAB
-- Arduino IDE
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Core Electronics
-
-- Analog & Digital Electronics
-- Digital Logic
-- Circuit Theory
-- Circuit Analysis
-- CMOS
-- VLSI Design
-- Microprocessors
-- Computer Architecture
-
-</td>
-
-<td width="50%">
-
-### Strengths
-
-- Adaptability
-- Time Management
-- Critical Thinking
-- Problem-Solving
-
-</td>
-</tr>
-</table>
-
----
-
-## `09 / ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=09171D&height=65&text=PERFORMANCE%20%E2%80%A2%20CONSISTENCY%20%E2%80%A2%20GROWTH&fontSize=16&fontColor=7DE2E8&animation=twinkling&fontAlignY=55"/>
+<img src="https://img.shields.io/badge/YOSYS-16121F?style=for-the-badge&logoColor=C8B6FF"/>
+<img src="https://img.shields.io/badge/GRAYWOLF-16121F?style=for-the-badge&logoColor=C8B6FF"/>
+<img src="https://img.shields.io/badge/QROUTER-16121F?style=for-the-badge&logoColor=C8B6FF"/>
+<img src="https://img.shields.io/badge/MATLAB-16121F?style=for-the-badge&logoColor=C8B6FF"/>
 
 </div>
 
-<br>
-
-`01` **4th Rank** among ECE department students — AY 2023–2024
-
-`02` **3rd Rank** among ECE department students — AY 2024–2025
-
-`03` **Top 5% Learner** in the NPTEL course on VLSI Physical Design using Timing Analysis
-
 ---
 
-## `10 / GITHUB`
+## `04 / CURRENT FOCUS`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=09171D&height=65&text=DIGITAL%20DESIGN%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20EXPERIMENTS&fontSize=16&fontColor=7DE2E8&animation=twinkling&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0A16&height=60&text=RTL%20%C2%B7%20VLSI%20%C2%B7%20EMBEDDED%20%C2%B7%20ARCHITECTURE&fontSize=17&fontColor=C8B6FF&animation=fadeIn&fontAlignY=55"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2400&pause=800&color=C8B6FF&center=true&vCenter=true&width=700&height=35&lines=Designing+digital+systems.;Exploring+VLSI+physical+design.;Building+embedded+hardware.;Learning+computer+architecture."/>
+
+</div>
+
+---
+
+## `05 / EXPERIENCE`
+
+### ◇ VLSI Physical Design Internship
+
+**Maven Silicon · Bangalore · May 2025 – July 2025**
+
+`YOSYS` → `GRAYWOLF` → `QROUTER` → `STA` → `DRC` → `LVS` → `GDSII`
+
+Implemented physical design of an **SPI module** using the Q-Flow open-source VLSI toolchain and generated a verified GDSII layout.
+
+---
+
+## `06 / EDUCATION`
+
+<div align="center">
+
+### VIT-AP UNIVERSITY
+
+**B.Tech · Electronics and Communication Engineering**
+
+`2023 – 2027` · **CGPA 9.36**
+
+<br>
+
+**Sri Chaitanya Junior College**  
+`2021 – 2023` · **97.7%`
+
+**Santhiniketan High School**  
+`2021` · **590 / 600`
+
+</div>
+
+---
+
+## `07 / ACHIEVEMENTS`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2200&pause=700&color=C8B6FF&center=true&vCenter=true&width=750&height=80&lines=4th+Rank+%E2%80%94+ECE+%7C+AY+2023%E2%80%932024;3rd+Rank+%E2%80%94+ECE+%7C+AY+2024%E2%80%932025;Top+5%25+%E2%80%94+NPTEL+VLSI+Physical+Design"/>
+
+</div>
+
+---
+
+## `08 / GITHUB`
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0A16&height=60&text=DIGITAL%20DESIGN%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20EXPERIMENTS&fontSize=16&fontColor=C8B6FF&animation=twinkling&fontAlignY=55"/>
 
 <br><br>
 
 <a href="#">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-%E2%86%92-0EA5A8?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20GITHUB-%E2%86%92-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## `11 / CONNECT`
-
 <div align="center">
 
-### `LET'S BUILD THE NEXT SYSTEM.`
+### `BUILD · SIMULATE · VERIFY`
 
 <br>
 
 <a href="mailto:sudheer.sreeyapureddy@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-%E2%86%92-0EA5A8?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/sudheer.sreeyapureddy@gmail.com-16121F?style=for-the-badge&logo=gmail&logoColor=C8B6FF"/>
 </a>
 
 <br><br>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LINKEDIN-%E2%86%92-0EA5A8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br><br>
-
-<sub>Designed & built by SreeYapureddy Sudheer Kumar Reddy · Kadapa, Andhra Pradesh</sub>
-
-<br>
-
-<sub>English — Professional &nbsp;|&nbsp; Telugu — Native</sub>
+<sub>Sudheer Kumar Reddy · Kadapa, Andhra Pradesh</sub>
 
 </div>
